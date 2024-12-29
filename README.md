@@ -1,7 +1,7 @@
 - 👋 Hi, I’m fazahriyas
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning DSA 7DEVELOPMENT
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning DSA & DEVELOPMENT
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...
 www.linkedin.com/in/fazah-riyas-870051247
 <!---
